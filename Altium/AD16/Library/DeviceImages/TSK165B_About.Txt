@@ -1,1 +1,0 @@
-PIC instruction set compatible, FPGA-Based RISC Microcontroller Family.

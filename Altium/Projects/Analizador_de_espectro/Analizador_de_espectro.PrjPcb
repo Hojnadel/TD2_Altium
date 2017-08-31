@@ -39,6 +39,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\..\..\Andres\Documents\UTN\Materias\Técnicas Digitales II\Repo_agus_2\hw\Altium\eqh_module_adc\LituLib.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TIFNTTDH
+
+[Document2]
 DocumentPath=..\..\..\..\..\Andres\Documents\UTN\Materias\Técnicas Digitales II\Archivos Altium\TDII_Lib_V2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -55,8 +72,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCRMLILH
 
-[Document2]
-DocumentPath=Analizador_de_espectro.SchDoc
+[Document3]
+DocumentPath=..\..\..\..\..\Andres\Documents\UTN\Materias\Técnicas Digitales II\Repo_agus_2\hw\Altium\eqh_board\LituLib.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YKPTHNNC
+
+[Document4]
+DocumentPath=adc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPLVNCPR
 
-[Document3]
+[Document5]
 DocumentPath=Fuente.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

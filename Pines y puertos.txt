@@ -1,0 +1,44 @@
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+PCM
+-----------------------------------------------------------------------------------------------
+DOUT  -->  P0.25 I2SRX_SDA Input/Output
+Receive Data. Serial data, received MSB first. It is driven by the transmitter and read by the
+receiver. Corresponds to the signal SD in the I2S bus specification.
+-----------------------------------------------------------------------------------------------
+BCK   <--  P2.11 I2STX_CLK Input/Output
+Transmit Clock. A clock signal used to synchronize the transfer of data on the transmit channel. It
+is driven by the master and received by the slave. Corresponds to the signal SCK in the I2S bus
+specification.
+-----------------------------------------------------------------------------------------------
+SCKI  <--  P4.29 TX_MCLK Output Optional master clock output for the I2S transmit function.
+-----------------------------------------------------------------------------------------------
+LRCK  <--  P2.12 I2STX_WS Input/Output
+Transmit Word Select. Selects the channel to which data is being sent. It is driven by the master
+and received by the slave. Corresponds to the signal WS in the I2S bus specification.
+WS = 0 indicates that data is being sent to channel 1 (left channel).
+WS = 1 indicates that data is being sent to channel 2 (right channel).
+-----------------------------------------------------------------------------------------------
+FSYNC <--  P2.10 GPIO
+-----------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+JTAG
+-----------------------------------------------------------------------------------------------
+TCK Input JTAG Test Clock. This pin is the clock for debug logic when in the
+JTAG debug mode.
+-----------------------------------------------------------------------------------------------
+TMS Input JTAG Test Mode Select. The TMS pin selects the next state in the
+TAP state machine.
+-----------------------------------------------------------------------------------------------
+TDI Input JTAG Test Data In. This is the serial data input for the shift register.
+-----------------------------------------------------------------------------------------------
+TDO Output JTAG Test Data Output. This is the serial data output from the shift
+register. Data is shifted out of the device on the negative edge of the
+TCK signal.
+-----------------------------------------------------------------------------------------------
+TRST Input JTAG Test Reset. The TRST pin can be used to reset the test logic
+within the debug logic.
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------

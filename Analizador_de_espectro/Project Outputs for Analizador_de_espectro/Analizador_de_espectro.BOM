@@ -1,0 +1,63 @@
+Bill of Material for 
+On 10/09/2017 at 14:26:27
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100 1/8W            0805             2    R17, R30                     Resistor             
+ 100k 1/8W           0805            12    R8, R9, R10, R14, R15, R18   Resistor             
+                                           R20, R21, R23, R27, R28, R29
+ 100nF 16V Ceramic   0805             4    C13, C15, C18, C20           Capacitor            
+ 100nF 25V X7R Ceramic 0805             8    c1, c2, c3, c4, c5, c6, c12  Capacitor            
+                                           c35
+ 100nF 6V3 Ceramic   0805             1    C28                          Capacitor            
+ 100pF 25V Ceramic   0805             1    C33                          Capacitor            
+ 100uF 6V3 ElecAlum  0805             1    C30                          Capacitor            
+ 10k 1/4W            0805             1    R33                          Resistor             
+ 10k 5% 1/8W                          6    R1, R2, R3, R4, R5, R7       Resistor             
+ 10k 5% 1/8W         0805             1    R36                          Resistor             
+ 10nF 25V X7R Ceramic 0805             2    c10, c11                     Capacitor            
+ 10uF 6V3 Tantalium  0805             4    C14, C16, C17, C19           Capacitor            
+ 12MHz Crystal                        1    X1                           Crystal              
+ 15nF 50V Ceramic    0805             1    C32                          Capacitor            
+ 18pF 50V COG Ceramic 0805             2    c7, c8                       Capacitor            
+ 1k 1/8W             0805             3    R6, R19, R31                 Resistor             
+ 1N4007              D_SMA            1    D1                           Diode signal         
+ 1uF 16V Tantalium   0805             2    C21, C22                     Capacitor            
+ 1uF 6V3 X7R Ceramic 0805             1    c9                           Capacitor            
+ 2.2u 6V3 X5R Ceramic 0805             1    C34                          Capacitor            
+ 2.2uF 16V Ceramic   0805             4    C23, C24, C25, C26           Capacitor            
+ 2k2 1/8W            0805             3    R13, R24, R35                Resistor             
+ 330nF 50V Ceramic   0805             1    C27                          Capacitor            
+ 33k 1/8W            0805             2    R12, R26                     Resistor             
+ 3k9 1/8W            0805             2    R16, R25                     Resistor             
+ 4.7uF 50V ElecAlum  0805             1    C31                          Capacitor            
+ 47uF 50V ElecAlum   0805             1    C29                          Capacitor            
+ 47uH                INDC1608L        1    L1                           Inductor             
+ 590 1/8W            0805             2    R11, R22                     Resistor             
+ 5k1 1/4W            0805             1    R34                          Resistor             
+ 74LVC4066                            2    IC3, IC7                     74LVC4066            
+ 8k2 1/4W            0805             1    R32                          Resistor             
+ AUD_IN                               1    CON1                         Connector            
+ AUD_OUT                              1    CON2                         Connector            
+ Choke                                2    CH1, CH2                     Choke                
+ CON_14                               2    CONN1, CONN2                 CONN TFT 3.5         
+ CON_18                               1    CONN3                        CON_TFT_2.8          
+ CONN_82                              1    CN2                                               
+ DC Jack                              1    CN1                          Connector            
+ Ferrite Bead                         1    FB1                          Ferrite Bead         
+ L5972D                               1    IC9                          Fuente Switching     
+ LM358               DIP8             2    IC2, IC4                     Dual Amplifier       
+ LM7805                               1    IC8                          Regulador            
+ LPC1769FBD100       LQFP100          1    U1                           CPU Cortex M3        
+ Mic                                  1    MIC1                         Microfono            
+ PCM1802                              1    IC1                          PCM1802              
+ Polyswitch                           1    PS1                          Polishwitch          
+ STPS3L40            1206K            1    D2                           Diode                
+ TP                  PIN1            35    TP1, TP2, TP3, TP4, TP5, TP6 Test Point           
+                                           TP7, TP8, TP9, TP10, TP11
+                                           TP12, TP13, TP14, TP15, TP16
+                                           TP17, TP18, TP19, TP20, TP21
+                                           TP22, TP23, TP24, TP25, TP26
+                                           TP27, TP28, TP29, TP30, TP31
+                                           TP32, TP33, TP34, TP35
+ TS3A5223                             2    IC5, IC10                    Analog Switch        

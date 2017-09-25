@@ -1,52 +1,52 @@
-Comment;Description;Designator;Part Number;Quantity
-;;;;
-TS3A5223;Analog Switch;IC5, IC10;TS3A5223RSWR;2
-DC Jack;Connector;CN1;PJ-002AH;1
-CONN_82;;CN2;;1
-CON_14;CONN TFT 3.5;CONN1, CONN2;;2
-CON_18;CON_TFT_2.8;CONN3;;1
-100nF 25V X7R Ceramic;Capacitor;c1, c2, c3, c4, c5, c6, c12, c35;08053C104KAT2A;8
-18pF 50V COG Ceramic;Capacitor;c7, c8;CL21C180JBANNNC;2
-1uF 6V3 X7R Ceramic;Capacitor;c9;GRM21BR71C105KA01L;1
-10nF 25V X7R Ceramic;Capacitor;c10, c11;CL21B103KAANNNC;2
-100nF 16V Ceramic;Capacitor;C13, C15, C18, C20;CL21B104KOANNNC;4
-2.2uF 16V Ceramic;Capacitor;C23, C24, C25, C26;EMK212BJ225KG-T;4
-330nF 50V Ceramic;Capacitor;C27;GRM219R71H334KA88D;1
-100nF 6V3 Ceramic;Capacitor;C28;C0805C104K9RACTU;1
-15nF 50V Ceramic;Capacitor;C32;GRM2195C1H153JA01D;1
-100pF 25V Ceramic;Capacitor;C33;GRM0335C1E101JA01D;1
-2.2u 6V3 X5R Ceramic;Capacitor;C34;GRM21BR60J225KA01L;1
-10uF 6V3 Tantalium;Capacitor;C14, C16, C17, C19;TAJR106K006RNJ;4
-1uF 16V Tantalium;Capacitor;C21, C22;F921C105MPA;2
-47uF 50V ElecAlum;Capacitor;C29;EEE-1HA470XP;1
-100uF 6V3 ElecAlum;Capacitor;C30;EEE-0JA101WR;1
-4.7uF 50V ElecAlum;Capacitor;C31;EEE-FK1H4R7R;1
-Choke;Choke;CH1, CH2;BRC2012T2R2MD;2
-1N4007;Diode signal;D1;1N4007-TP;1
-STPS3L40;Diode;D2;STPS3L40SY;1
-Ferrite Bead;Ferrite Bead;FB1;BKP2125HS600-T;1
-47uH;Inductor;L1;744771147;1
-AUD_IN;Connector;CON1;SJ-2523-SMT-TR;1
-AUD_OUT;Connector;CON2;SJ-2523-SMT-TR;1
-L5972D;Fuente Switching;IC9;L5972D013TR;1
-LM7805;Regulador;IC8;LM7805CT;1
-LPC1769FBD100;CPU Cortex M3;U1;LPC1769FBD100;1
-Mic;Microfono;MIC1;CMA-4544PF-W;1
-LM358;Dual Amplifier;IC2, IC4;LM358DT;2
-PCM1802;PCM1802;IC1;PCM1802DBR;1
-Polyswitch;Polishwitch;PS1;MINISMDC110F/24-2;1
-74LVC4066;74LVC4066;IC3, IC7;74LVC4066BQ,115;2
-10k 5% 1/8W;Resistor;R1, R2, R3, R4, R5, R7;RMCF0805JT10K0;6
-1k 1/8W;Resistor;R6, R19, R31;RC0805JR-071KL;3
-100k 1/8W;Resistor;R8, R9, R10, R14, R15, R18, R20, R21, R23, R27, R28, R29;RC0805FR-07100KL;12
-590 1/8W;Resistor;R11, R22;RC0805FR-07590RL;2
-33k 1/8W;Resistor;R12, R26;RMCF0805JT33K0;2
-2k2 1/8W;Resistor;R13, R24, R35;RMCF0805JT2K20;3
-3k9 1/8W;Resistor;R16, R25;RMCF0805JT3K90;2
-100 1/8W;Resistor;R17, R30;RC0805FR-07100RL;2
-8k2 1/4W;Resistor;R32;ERJ-PB6D8201V;1
-10k 1/4W;Resistor;R33;RNCP0805FTD10K0;1
-5k1 1/4W;Resistor;R34;ERJ-PB6D5101V;1
-10k 5% 1/8W;Resistor;R36;RMCF0805JT10K0;1
-TP;Test Point;TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, TP20, TP21, TP22, TP23, TP24, TP25, TP26, TP27, TP28, TP29, TP30, TP31, TP32, TP33, TP34, TP35;;35
-12MHz Crystal;Crystal;X1;ABM3C-12.000MHz-D4Y-T;1
+C,Comment,Description,Designator,Part Number,Quantity,Temp Coef,Tolerance,V,Value,Footprint
+
+"","TS3A5223","Analog Switch","IC5, IC10","TS3A5223RSWR","2","","","","","QFN_10"
+"","DC Jack","Connector","CN1","PJ-002AH","1","","","","","Jack_PJ002A"
+"","CONN_82","","CN2","","1","","","","","HDR_M_08P_0.1"
+"","CON_14","CONN TFT 3.5","CONN1, CONN2","","2","","","","","1x14x2.54 Pin Header TH V"
+"","CON_18","CON_TFT_2.8","CONN3","","1","","","","","2x9x2.54 Pin Header TH V"
+"100nF","100nF 25V X7R Ceramic","Capacitor","c1, c2, c3, c4, c5, c6, c12, c35","08053C104KAT2A","8","X7R","","25V","","C_0805"
+"18pF","18pF 50V COG Ceramic","Capacitor","c7, c8","CL21C180JBANNNC","2","COG","","50V","","C_0805"
+"1uF","1uF 6V3 X7R Ceramic","Capacitor","c9","GRM21BR71C105KA01L","1","X7R","","6V3","","C_0805"
+"10nF","10nF 25V X7R Ceramic","Capacitor","c10, c11","CL21B103KAANNNC","2","X7R","","25V","","C_0805"
+"100nF","100nF 16V Ceramic","Capacitor","C13, C15, C18, C20","CL21B104KOANNNC","4","","","16V","","C_0805"
+"1uF","1uF 16V Ceramic","Capacitor","C23, C26","GRM21BR71C105KA01L","2","","","16V","","C_0805"
+"330nF","330nF 50V Ceramic","Capacitor","C27","GRM219R71H334KA88D","1","","","50V","","C_0805"
+"100nF","100nF 6V3 Ceramic","Capacitor","C28","C0805C104K9RACTU","1","","","6V3","","C_0805"
+"15nF","15nF 50V Ceramic","Capacitor","C32","GRM2195C1H153JA01D","1","","","50V","","C_0805"
+"100pF","100pF 25V Ceramic","Capacitor","C33","GRM0335C1E101JA01D","1","","","25V","","C_0805"
+"2.2u","2.2u 6V3 X5R Ceramic","Capacitor","C34","GRM21BR60J225KA01L","1","X5R","","6V3","","C_0805"
+"100nF","100nF 35V Ceramic","Capacitor","C38","GMK212BJ104KGHT","1","","","35V","","C_0805"
+"10uF","10uF 6V3 Tantalium","Capacitor","C14, C16, C17, C19","TAJR106K006RNJ","4","","","6V3","","C_0805_pol"
+"1uF","1uF 16V Tantalium","Capacitor","C21, C22","F921C105MPA","2","","","16V","","C_0805_pol"
+"100uF","100uF 16V Elect. Alum.","Capacitor","C24, C25, C36, C37","UWX1C101MCL1GB","4","","","16V","","C_AE7066X54M"
+"100uF","100uF 50V ElecAlum","Capacitor","C29","EEE1HA101UP","1","","","50V","","C_AE10083X105M"
+"100uF","100uF 6V3 ElecAlum","Capacitor","C30","EEE-0JA101WR","1","","","6V3","","C_AE6553X54M"
+"4.7uF","4.7uF 50V ElecAlum","Capacitor","C31","EEE1HA4R7WR","1","","","50V","","C_AE6553X54M"
+"","Choke","Choke","CH1, CH2","BRC2012T2R2MD","2","","","","","I_CHOQUE_DFN"
+"","STPS3L40","Diode","D2","STPS3L40SY","1","","","","","D_M6959X25N"
+"","CDBA140-G","Diodo Schottky","D1","CDBA140-G","1","","","","","D_DO-214AC_Schottky"
+"","Ferrite Bead","Ferrite Bead","FB1","BKP2125HS600-T","1","","","","","Ferrite_bead"
+"","47uH","Inductor","L1","744771147","1","","","","47uH","I_P128122X60N"
+"","AUD_IN","Connector","CON1","SJ1-2503A","1","","","","","AUDIO_JACK 3.5mm"
+"","AUD_OUT","Connector","CON2","SJ1-2503A","1","","","","","AUDIO_JACK 3.5mm"
+"","L5972D","Fuente Switching","IC9","L5972D013TR","1","","","","","SO8"
+"","LM7805","Regulador","IC8","LM7805CT","1","","","","","DPAK228P972X240-3N"
+"","LPC1769FBD100","CPU Cortex M3","U1","LPC1769FBD100","1","","","","","LQFP100"
+"","Mic","Microfono","MIC1","CMA-4544PF-W","1","","","","","MIC_CMA-4544PF-W"
+"","MCP6022","MCP6022","IC2","","1","","","","","SOIC_D8"
+"","PCM1802","PCM1802","IC1","PCM1802DBR","1","","","","","SSOP_DB20"
+"","Polyswitch","Polishwitch","PS1","MINISMDC110F/24-2","1","","","","","POLISWITCH_1"
+"","74LVC4066","74LVC4066","IC3, IC7","74LVC4066BQ,115","2","","","","","SO14"
+"","10k 5% 1/8W","Resistor","R1, R2, R3, R4, R5, R7, R36","RMCF0805JT10K0","7","","5%","","10k","R_0805"
+"","1k 1/8W","Resistor","R6, R19, R31","RC0805JR-071KL","3","","","","1k","R_0805"
+"","100k 1/8W","Resistor","R8, R9, R10, R18, R20, R21, R23, R27","RC0805FR-07100KL","8","","","","100k","R_0805"
+"","590 1/8W","Resistor","R11, R22","RC0805FR-07590RL","2","","","","590","R_0805"
+"","33k 1/8W","Resistor","R12, R26","RMCF0805JT33K0","2","","","","33k","R_0805"
+"","2k2 1/8W","Resistor","R13, R24, R35","RMCF0805JT2K20","3","","","","2k2","R_0805"
+"","3k9 1/8W","Resistor","R16, R25","RMCF0805JT3K90","2","","","","3k9","R_0805"
+"","8k2 1/4W","Resistor","R32","ERJ-PB6D8201V","1","","","","8k2","R_0805"
+"","10k 1/4W","Resistor","R33","RNCP0805FTD10K0","1","","","","10k","R_0805"
+"","5k1 1/4W","Resistor","R34","ERJ-PB6D5101V","1","","","","5k1","R_0805"
+"","TP","Test Point","TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, TP20, TP21, TP22, TP23, TP24, TP25, TP26, TP27, TP28, TP29, TP30, TP31, TP32, TP33, TP34, TP35","","35","","","","","TP"
+"","12MHz Crystal","Crystal","X1","ABM3C-12.000MHz-D4Y-T","1","","","","","ABMC_XTAL"

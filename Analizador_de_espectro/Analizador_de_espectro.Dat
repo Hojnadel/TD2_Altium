@@ -1,4 +1,4 @@
-﻿Field=#~Integer~#~50|Field=C~String~C~100|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Part Number~String~Part Number~100|Field=Quantity~Integer~Quantity~100|Field=Temp Coef~String~Temp Coef~100|Field=Tolerance~String~Tolerance~100|Field=V~String~V~100|Field=Value~String~Value~100|Field=Footprint~String~Footprint~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Analizador_de_espectro.PrjPcb|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Projects\Analizador_de_espectro\Analizador_de_espectro.PrjPcb|ReportField=Title~Bill of Materials For Project [Analizador_de_espectro.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~128|ReportField=ReportTime~15:39:11|ReportField=ReportDate~25/09/2017|ReportField=ReportDateTime~25/09/2017 15:39:11|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Hojnadel - Salazar Ato|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~25/09/2017|ReportField=CurrentTime~14:01:42|ReportField=Date~09/09/2017|ReportField=DocumentFullPathAndName~C:\Users\Public\Documents\Altium\Projects\Analizador_de_espectro\Analizador_de_espectro.SchDoc|ReportField=DocumentName~Analizador_de_espectro.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10/09/2017|ReportField=Organization~UTN.FRBA|ReportField=ProjectName~Analizador_de_espectro.PrjPcb|ReportField=Revision~Rev1.0|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~6|ReportField=Time~|ReportField=Title~Analizador_de_Espectro_SCH|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=IsUserConfigurable~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Analizador_de_espectro.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\Analizador_de_espectro\Analizador_de_espectro.PrjPcb
+﻿Field=#~Integer~#~50|Field=C~String~C~100|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Part Number~String~Part Number~100|Field=Quantity~Integer~Quantity~100|Field=Temp Coef~String~Temp Coef~100|Field=Tolerance~String~Tolerance~100|Field=V~String~V~100|Field=Value~String~Value~100|Field=Footprint~String~Footprint~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Analizador_de_espectro.PrjPcb|ReportField=ProjectFullPath~E:\Nueva carpeta\4_Año_UTN\Tecnicas_Digitales_II\TD2_Altium\Analizador_de_espectro\Analizador_de_espectro.PrjPcb|ReportField=Title~Bill of Materials For Project [Analizador_de_espectro.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~133|ReportField=ReportTime~03:28:13 p.m.|ReportField=ReportDate~28/09/2017|ReportField=ReportDateTime~28/09/2017 03:28:13 p.m.|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Hojnadel - Salazar Ato|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~28/09/2017|ReportField=CurrentTime~03:28:03 p.m.|ReportField=Date~09/09/2017|ReportField=DocumentFullPathAndName~E:\Nueva carpeta\4_Año_UTN\Tecnicas_Digitales_II\TD2_Altium\Analizador_de_espectro\Analizador_de_espectro.SchDoc|ReportField=DocumentName~Analizador_de_espectro.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~14/09/2017|ReportField=Organization~UTN.FRBA|ReportField=ProjectName~Analizador_de_espectro.PrjPcb|ReportField=Revision~Rev1.0|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~6|ReportField=Time~|ReportField=Title~Analizador_de_Espectro_SCH|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=IsUserConfigurable~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Analizador_de_espectro.PrjPcb|ReportField=DataSourceFullPath~E:\Nueva carpeta\4_Año_UTN\Tecnicas_Digitales_II\TD2_Altium\Analizador_de_espectro\Analizador_de_espectro.PrjPcb
 1||TS3A5223|Analog Switch|IC5, IC10|TS3A5223RSWR|2|||||QFN_10
 2||DC Jack|Connector|CN1|PJ-002AH|1|||||Jack_PJ002A
 3||CONN_82||CN2||1|||||HDR_M_08P_0.1
@@ -27,9 +27,9 @@
 26||CDBA140-G|Diodo Schottky|D1|CDBA140-G|1|||||D_DO-214AC_Schottky
 27||Ferrite Bead|Ferrite Bead|FB1|BKP2125HS600-T|1|||||Ferrite_bead
 28||47uH|Inductor|L1|744771147|1||||47uH|I_P128122X60N
-29||AUD_IN|Connector|CON1|SJ1-2503A|1|||||AUDIO_JACK 3.5mm
-30||AUD_OUT|Connector|CON2|SJ1-2503A|1|||||AUDIO_JACK 3.5mm
-31||L5972D|Fuente Switching|IC9|L5972D013TR|1|||||SO8
+29||AUD_IN||CON1, CON2|SJ1-3533N|2|||||AUDIO_JACK 3.5mm
+30||L5972D|Fuente Switching|IC9|L5972D013TR|1|||||SO8
+31||LED|LED|D3, D4|TLPR5600, DLPG5600|2|||||Led_TH
 32||LM7805|Regulador|IC8|LM7805CT|1|||||DPAK228P972X240-3N
 33||LPC1769FBD100|CPU Cortex M3|U1|LPC1769FBD100|1|||||LQFP100
 34||Mic|Microfono|MIC1|CMA-4544PF-W|1|||||MIC_CMA-4544PF-W
@@ -43,9 +43,11 @@
 42||590 1/8W|Resistor|R11, R22|RC0805FR-07590RL|2||||590|R_0805
 43||33k 1/8W|Resistor|R12, R26|RMCF0805JT33K0|2||||33k|R_0805
 44||2k2 1/8W|Resistor|R13, R24, R35|RMCF0805JT2K20|3||||2k2|R_0805
-45||3k9 1/8W|Resistor|R16, R25|RMCF0805JT3K90|2||||3k9|R_0805
-46||8k2 1/4W|Resistor|R32|ERJ-PB6D8201V|1||||8k2|R_0805
-47||10k 1/4W|Resistor|R33|RNCP0805FTD10K0|1||||10k|R_0805
-48||5k1 1/4W|Resistor|R34|ERJ-PB6D5101V|1||||5k1|R_0805
-49||TP|Test Point|TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, TP20, TP21, TP22, TP23, TP24, TP25, TP26, TP27, TP28, TP29, TP30, TP31, TP32, TP33, TP34, TP35||35|||||TP
-50||12MHz Crystal|Crystal|X1|ABM3C-12.000MHz-D4Y-T|1|||||ABMC_XTAL
+45||Res1|Resistor|R14, R15|RPC08105JT1K00, ERJ-PB6D8200V|2||[NoValue], 5%||1k, 820|0805
+46||3k9 1/8W|Resistor|R16, R25|RMCF0805JT3K90|2||||3k9|R_0805
+47||8k2 1/4W|Resistor|R32|ERJ-PB6D8201V|1||||8k2|R_0805
+48||10k 1/4W|Resistor|R33|RNCP0805FTD10K0|1||||10k|R_0805
+49||5k1 1/4W|Resistor|R34|ERJ-PB6D5101V|1||||5k1|R_0805
+50||Switch|Switch|SW1|PR141C1900|1|||||BORNERA_2X5MM
+51||TP|Test Point|TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, TP20, TP21, TP22, TP23, TP24, TP25, TP26, TP27, TP28, TP29, TP30, TP31, TP32, TP33, TP34, TP35||35|||||TP
+52||12MHz Crystal|Crystal|X1|ABM3C-12.000MHz-D4Y-T|1|||||ABMC_XTAL

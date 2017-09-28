@@ -1,0 +1,2 @@
+Remove Pin=IC10B-NC2 From Net=MIC-CH
+Remove Pin=IC10A-SEL1 From Net=CTRL_MUX

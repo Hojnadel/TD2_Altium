@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=NetD2_2 Pin=IC9-1
+Added Pin To Net: NetName=GND Pin=IC9-2
+Added Pin To Net: NetName=GND Pin=IC9-3
+Added Pin To Net: NetName=NetC32_1 Pin=IC9-4
+Added Pin To Net: NetName=NetIC9_FB Pin=IC9-5
+Added Pin To Net: NetName=GND Pin=IC9-6
+Added Pin To Net: NetName=GND Pin=IC9-7
+Added Pin To Net: NetName=VIN Pin=IC9-8
+Change Net Name : Old Net Name=NetIC9_FB New Net Name=NetIC9_5
+Added Room: Name=U_adc
+Added Room: Name=U_AGC
+Added Room: Name=U_Fuente
+Added Room: Name=U_Signal_imputs
+Added Room: Name=U_uc

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetIC5_SEL2 Pin=U1-90
+Removed Pin From Net: NetName=NetIC5_SEL1 Pin=U1-91
+Added Pin To Net: NetName=VINR Pin=IC5-2
+Added Pin To Net: NetName=NetC24_2 Pin=IC5-3
+Added Pin To Net: NetName=NetIC5_SEL2 Pin=IC5-4
+Added Pin To Net: NetName=NetIC5_NC1 Pin=IC5-5
+Added Pin To Net: NetName=NetIC5_NC2 Pin=IC5-7
+Added Pin To Net: NetName=NetIC5_SEL1 Pin=IC5-8
+Added Pin To Net: NetName=NetC36_2 Pin=IC5-9
+Added Pin To Net: NetName=VINL Pin=IC5-10
+Added Pin To Net: NetName=R-CH Pin=IC10-2
+Added Pin To Net: NetName=VINR Pin=IC10-3
+Added Pin To Net: NetName=MIC-CH Pin=IC10-5
+Added Pin To Net: NetName=MIC-CH Pin=IC10-7
+Added Pin To Net: NetName=CTRL_MUX Pin=IC10-8
+Added Pin To Net: NetName=VINL Pin=IC10-9
+Added Pin To Net: NetName=L-CH Pin=IC10-10
+Added Pin To Net: NetName=NetIC5_SEL1 Pin=U1-90
+Added Pin To Net: NetName=NetIC5_SEL2 Pin=U1-91
+Change Net Name : Old Net Name=NetIC5_NC1 New Net Name=NetIC5_5
+Change Net Name : Old Net Name=NetIC5_NC2 New Net Name=NetIC5_7
+Change Net Name : Old Net Name=NetIC5_SEL1 New Net Name=NetIC5_8
+Change Net Name : Old Net Name=NetIC5_SEL2 New Net Name=NetIC5_4

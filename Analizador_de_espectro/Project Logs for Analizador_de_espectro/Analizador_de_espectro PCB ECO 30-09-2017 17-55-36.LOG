@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Netc8_2 Pin=X1-2
+Change Component Library : Designator=X1 Old Library=TDII_Lib.SchLib New Library=TDII_Lib_V2.SchLib
+Added Pin To Net: NetName=Netc8_2 Pin=X1-3
+Added Pin To Net: NetName=NetX1_2 Pin=X1-2
+Added Pin To Net: NetName=NetX1_2 Pin=X1-4
+Added Net: Name=NetX1_2

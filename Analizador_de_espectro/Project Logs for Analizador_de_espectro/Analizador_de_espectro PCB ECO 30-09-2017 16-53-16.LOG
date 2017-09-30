@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=CTRL_MUX Pin=IC5-1
+Added Pin To Net: NetName=GND Pin=IC5-3
+Added Pin To Net: NetName=VCC Pin=IC5-8

@@ -1,0 +1,9 @@
+Added Component: Designator=IC4(TSSOP50P490X110-10N)
+Added Pin To Net: NetName=VINR Pin=IC4-2
+Added Pin To Net: NetName=VINL Pin=IC4-4
+Added Pin To Net: NetName=NetIC4_5 Pin=IC4-5
+Added Pin To Net: NetName=NetC36_2 Pin=IC4-6
+Added Pin To Net: NetName=NetIC4_7 Pin=IC4-7
+Added Pin To Net: NetName=NetIC4_9 Pin=IC4-9
+Added Pin To Net: NetName=NetC24_2 Pin=IC4-10
+Added Member To Class: ClassName=U_AGC Member=Component IC4 TS5A23157

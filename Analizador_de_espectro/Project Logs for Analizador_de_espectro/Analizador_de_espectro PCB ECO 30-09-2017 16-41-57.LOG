@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=VINR Pin=IC5-2
+Removed Pin From Net: NetName=NetC24_2 Pin=IC5-3
+Removed Pin From Net: NetName=NetIC5_4 Pin=IC5-4
+Removed Pin From Net: NetName=NetIC5_5 Pin=IC5-5
+Removed Pin From Net: NetName=NetIC5_7 Pin=IC5-7
+Removed Pin From Net: NetName=NetIC5_8 Pin=IC5-8
+Removed Pin From Net: NetName=NetC36_2 Pin=IC5-9
+Removed Pin From Net: NetName=VINL Pin=IC5-10
+Removed Pin From Net: NetName=R-CH Pin=IC10-2
+Removed Pin From Net: NetName=VINR Pin=IC10-3
+Removed Pin From Net: NetName=MIC-CH Pin=IC10-5
+Removed Pin From Net: NetName=MIC-CH Pin=IC10-7
+Removed Pin From Net: NetName=CTRL_MUX Pin=IC10-8
+Removed Pin From Net: NetName=VINL Pin=IC10-9
+Removed Pin From Net: NetName=L-CH Pin=IC10-10
+Removed Pin From Net: NetName=NetIC5_8 Pin=U1-90
+Removed Pin From Net: NetName=NetIC5_4 Pin=U1-91
+Removed Member From Class: ClassName=U_AGC Member=IC5
+Removed Member From Class: ClassName=U_Signal_imputs Member=IC10
+Change Component DesignItemId : Designator=IC5 Old DesignItemId=A_SW_2x2:1 New DesignItemId=A_SW_2x2:1_VSSOP
+Change Component Footprint: Designator=IC5 Old Footprint=QFN_10 New Footprint=TSSOP50P490X110-10N
+Change Component Comment : Designator=IC5 Old Comment=TS3A5223 New Comment=TS5A23157
+Added Pin To Net: NetName=R-CH Pin=IC5-2
+Added Pin To Net: NetName=L-CH Pin=IC5-4
+Added Pin To Net: NetName=CTRL_MUX Pin=IC5-5
+Added Pin To Net: NetName=VINL Pin=IC5-6
+Added Pin To Net: NetName=MIC-CH Pin=IC5-7
+Added Pin To Net: NetName=MIC-CH Pin=IC5-9
+Added Pin To Net: NetName=VINR Pin=IC5-10
+Added Pin To Net: NetName=NetIC5_4 Pin=U1-90
+Added Pin To Net: NetName=NetIC5_8 Pin=U1-91
+Change Net Name : Old Net Name=NetIC5_4 New Net Name=NetIC4_5
+Change Net Name : Old Net Name=NetIC5_5 New Net Name=NetIC4_9
+Change Net Name : Old Net Name=NetIC5_7 New Net Name=NetIC4_7
+Change Net Name : Old Net Name=NetIC5_8 New Net Name=NetU1_91
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_2 Pin=R11-2
+Added Net: Name=NetIC3_2
+Added Pin To Net: NetName=NetIC3_3 Pin=IC3-3
+Added Pin To Net: NetName=NetIC3_3 Pin=R13-2
+Added Net: Name=NetIC3_3
+Added Pin To Net: NetName=NetIC3_9 Pin=IC3-9
+Added Pin To Net: NetName=NetIC3_9 Pin=R16-2
+Added Net: Name=NetIC3_9
+Added Pin To Net: NetName=NetIC3_10 Pin=IC3-10
+Added Pin To Net: NetName=NetIC3_10 Pin=R18-2
+Added Net: Name=NetIC3_10
+Added Pin To Net: NetName=NetIC7_2 Pin=IC7-2
+Added Pin To Net: NetName=NetIC7_2 Pin=R22-2
+Added Net: Name=NetIC7_2
+Added Pin To Net: NetName=NetIC7_3 Pin=IC7-3
+Added Pin To Net: NetName=NetIC7_3 Pin=R24-2
+Added Net: Name=NetIC7_3
+Added Pin To Net: NetName=NetIC7_9 Pin=IC7-9
+Added Pin To Net: NetName=NetIC7_9 Pin=R25-2
+Added Net: Name=NetIC7_9
+Added Pin To Net: NetName=NetIC7_10 Pin=IC7-10
+Added Pin To Net: NetName=NetIC7_10 Pin=R27-2
+Added Net: Name=NetIC7_10
+Added Member To Class: ClassName=U_Signal_imputs Member=Component IC5 TS5A23157

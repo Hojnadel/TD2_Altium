@@ -1,0 +1,55 @@
+Added Component: Designator=C27(C_0805)
+Added Component: Designator=C28(C_0805)
+Added Component: Designator=C39(C_0805)
+Added Component: Designator=C40(C_0805)
+Added Component: Designator=D5(1N4148WS)
+Added Component: Designator=D6(SOD_123)
+Added Component: Designator=IC6(SOT23_6P)
+Added Component: Designator=L2(VLCF5028)
+Added Component: Designator=R17(R_0805)
+Added Component: Designator=R28(R_0805)
+Added Component: Designator=TP17(TP)
+Added Pin To Net: NetName=+5V Pin=C28-1
+Added Pin To Net: NetName=AGND Pin=C28-2
+Added Pin To Net: NetName=+5V Pin=C39-1
+Added Pin To Net: NetName=AGND Pin=C39-2
+Added Pin To Net: NetName=VIN Pin=C40-1
+Added Pin To Net: NetName=AGND Pin=C40-2
+Added Pin To Net: NetName=+5V Pin=D5-1
+Added Pin To Net: NetName=AGND Pin=D6-1
+Added Pin To Net: NetName=AGND Pin=IC6-2
+Added Pin To Net: NetName=VIN Pin=IC6-4
+Added Pin To Net: NetName=VIN Pin=IC6-5
+Added Pin To Net: NetName=+5V Pin=L2-2
+Added Pin To Net: NetName=+5V Pin=R17-2
+Added Pin To Net: NetName=AGND Pin=R28-1
+Added Pin To Net: NetName=+5V Pin=TP17-1
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=D5-2
+Added Pin To Net: NetName=NetC27_1 Pin=IC6-1
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=D6-2
+Added Pin To Net: NetName=NetC27_2 Pin=IC6-6
+Added Pin To Net: NetName=NetC27_2 Pin=L2-1
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetIC6_3 Pin=IC6-3
+Added Pin To Net: NetName=NetIC6_3 Pin=R17-1
+Added Pin To Net: NetName=NetIC6_3 Pin=R28-2
+Added Net: Name=NetIC6_3
+Added Member To Class: ClassName=U_Fuente Member=Component C27 100nF 16V X7R
+Added Member To Class: ClassName=U_Fuente Member=Component C28 10uF 10V X7R
+Added Member To Class: ClassName=U_Fuente Member=Component C39 10uF 10V X7R
+Added Member To Class: ClassName=U_Fuente Member=Component C40 2.2uF 50V X7R
+Added Member To Class: ClassName=U_Fuente Member=Component D5 1N4148WS
+Added Member To Class: ClassName=U_Fuente Member=Component D6 MBRX160TP
+Added Member To Class: ClassName=U_Fuente Member=Component IC6 MCP
+Added Member To Class: ClassName=U_Fuente Member=Component L2 LQH44PN220MP0L
+Added Member To Class: ClassName=U_Fuente Member=Component R17 30k9 1%
+Added Member To Class: ClassName=U_Fuente Member=Component R28 30k9 1%
+Added Member To Class: ClassName=U_Fuente Member=Component TP17 TP
+Added Room: Name=U_adc
+Added Room: Name=U_AGC
+Added Room: Name=U_Fuente
+Added Room: Name=U_Signal_imputs
+Added Room: Name=U_uc

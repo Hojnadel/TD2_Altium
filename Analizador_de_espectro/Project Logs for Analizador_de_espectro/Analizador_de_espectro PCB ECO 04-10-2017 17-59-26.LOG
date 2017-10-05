@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=IC5-3
+Removed Pin From Net: NetName=GND Pin=TP22-1
+Added Pin To Net: NetName=AGND Pin=IC5-3
+Added Pin To Net: NetName=AGND Pin=TP22-1
+Added Room: Name=U_adc
+Added Room: Name=U_AGC
+Added Room: Name=U_Fuente
+Added Room: Name=U_Signal_imputs
+Added Room: Name=U_uc

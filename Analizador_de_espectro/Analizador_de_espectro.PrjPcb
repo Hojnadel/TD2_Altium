@@ -107,6 +107,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BPLVNCPR
 
 [Document5]
+DocumentPath=Analizador_de_espectro.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QEWJMCSD
+
+[Document6]
 DocumentPath=uc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DIEWCYEJ
 
-[Document6]
+[Document7]
 DocumentPath=Fuente.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJRPSGJX
 
-[Document7]
+[Document8]
 DocumentPath=Analizador_de_espectro.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJPRQXLM
 
-[Document8]
+[Document9]
 DocumentPath=Signal_imputs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUQSACAG
 
-[Document9]
+[Document10]
 DocumentPath=AGC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JQFQCWEV
 
-[Document10]
+[Document11]
 DocumentPath=Analizador_de_espectro.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=Fuente.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RUKJRVOO
 
-[Document12]
+[Document13]
 DocumentPath=DPAK.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IISFHIUB
 
-[Document13]
+[Document14]
 DocumentPath=SOP65P780X200-20N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQNCRAMB
 
-[Document14]
+[Document15]
 DocumentPath=QFN1279600-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCRMBXXG
 
-[Document15]
+[Document16]
 DocumentPath=Conectores_pines.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,23 +309,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELHMFDTU
-
-[Document16]
-DocumentPath=BACK_UP_04_10_Analizador_de_espectro.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QEWJMCSD
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Analizador_de_espectro\Analizador_de_espectro.BOM

@@ -1,12 +1,11 @@
 Yo:
-- ADCs (agus):		330
+- ADCs (ADCs):		330
 
 TUCU:
 - OP:			140
 
 ANDRES+TUCU:
-
-
-
+-Digikey (primer pedido) = 521
+-Placas (PCBWay) = 1278
 
 MAURI:  930

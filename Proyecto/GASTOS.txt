@@ -1,12 +1,12 @@
 Yo:
 - ADCs (agus):		330
 
-
-
-
-
-
-
-
 TUCU:
 - OP:			140
+
+ANDRES+TUCU:
+
+
+
+
+MAURI:  930

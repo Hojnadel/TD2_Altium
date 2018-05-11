@@ -9,3 +9,28 @@ ANDRES+TUCU:
 -Placas (PCBWay) = 1278
 
 MAURI:  930
+
+
+
+
+
+***************11/5*******************
+Gastos individuales totalizados:
+
+Andrés:		330 + 521/2 + 1278/2 = 1229.5
+Tucu:		140 + 521/2 + 1278/2 = 1039.5
+Mauri:		930
+
+GASTOS TOTALES AL 11/5:		1229.5 + 1039.5 + 930 = 3199
+División por cabeza:		3199 / 5 = 639.8
+
+
+Andres:		639.8 - 1229.5 = -589.7
+Tucu:		639.8 - 1039.5 = -399.7
+Mauri:		639.8 - 930 =    -290.2
+Juli:				 +639.8
+Alan:				 +639.8
+
+
+
+

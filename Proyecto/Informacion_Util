@@ -1,0 +1,8 @@
+Audio Spectrum Analyzer (FFT 32 points and LCD 20x4) (hay código)
+https://os.mbed.com/users/Suky/notebook/audio-spectrum-analyzer-fft-32-points-and-lcd-20x4/
+
+Real-Time Audio Spectrum Analyser (se parece más a lo que queremos hacer, usa pantalla tft)
+https://www.waitingforfriday.com/?p=325
+
+Esto es del foro de NXP, no lo leí pero parece que usan TFT
+https://community.nxp.com/docs/DOC-100207

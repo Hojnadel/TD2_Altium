@@ -1,0 +1,30 @@
+Circuit: * C:\Users\Andres\Documents\GitHub\TD2_R4051_GrupoX\Proyecto\Draft_levantamiento_amplificacion.asc
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+
+Date: Fri May 11 12:12:50 2018
+Total elapsed time: 0.312 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4043
+traniter = 4040
+tranpoints = 2021
+accept = 2021
+rejected = 0
+matrix size = 12
+fillins = 3
+solver = Normal
+Matrix Compiler1: 536 bytes object code size  0.4/0.1/[0.1]
+Matrix Compiler2: 814 bytes object code size  0.1/0.2/[0.1]
+
+

@@ -8,7 +8,7 @@
 #define		NO_KEY		0xFF
 
 #define 	T_TECLADO	50
-#define 	T_DEBOUNCE	100
+#define 	T_DEBOUNCE	75
 
 
 #define		BOTON_0		2,10

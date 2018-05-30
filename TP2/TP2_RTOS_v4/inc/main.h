@@ -58,9 +58,10 @@ extern "C" {
  */
 int main(void);
 
-static void vTaskSecuenciaLed(void*);
+static void vTaskSecuenciaLed(void);
 static void vTaskLeerTecla(void);
 static void vTaskBotonera(void);
+static void vTaskTemporizador(void*);
 void initHardware(void);
 
 /*==================[cplusplus]==============================================*/

@@ -1,5 +1,6 @@
 Yo:
-- ADCs (ADCs):		330
+- ADCs (ADCs):		250
+- Arrow:		270	(U$S 7.3@37$)
 
 TUCU:
 - OP:			140
@@ -17,19 +18,19 @@ MAURI:  930
 ***************11/5*******************
 Gastos individuales totalizados:
 
-Andrés:		330 + 521/2 + 1278/2 = 1229.5
+Andrés:		250 + 270 + 521/2 + 1278/2 = 1419.5
 Tucu:		140 + 521/2 + 1278/2 = 1039.5
 Mauri:		930
 
-GASTOS TOTALES AL 11/5:		1229.5 + 1039.5 + 930 = 3199
-División por cabeza:		3199 / 5 = 639.8
+GASTOS TOTALES AL 11/5:		1419.5 + 1039.5 + 930 = 3389
+División por cabeza:		3389 / 4 = 847.25
 
 
-Andres:		639.8 - 1229.5 = -589.7
-Tucu:		639.8 - 1039.5 = -399.7
-Mauri:		639.8 - 930 =    -290.2
-Juli:				 +639.8
-Alan:				 +639.8
+Andres:		847.25 - 1419.5 = -572.25
+Tucu:		847.25 - 1039.5 = -192.25
+Mauri:		847.25 - 930	= - 82.75
+Juli:				  +847.25
+
 
 
 
